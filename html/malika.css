@@ -1,0 +1,14 @@
+body{
+    background: url("../images/hehe.jpg");
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.ons {
+  width:400px;
+  object-fit: contain;
+
+}
